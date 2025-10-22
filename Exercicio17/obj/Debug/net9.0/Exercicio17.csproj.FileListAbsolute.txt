@@ -1,0 +1,14 @@
+C:\Users\42501827899\Desktop\BeckEndMoura\Exercicio17\bin\Debug\net9.0\Exercicio17.exe
+C:\Users\42501827899\Desktop\BeckEndMoura\Exercicio17\bin\Debug\net9.0\Exercicio17.deps.json
+C:\Users\42501827899\Desktop\BeckEndMoura\Exercicio17\bin\Debug\net9.0\Exercicio17.runtimeconfig.json
+C:\Users\42501827899\Desktop\BeckEndMoura\Exercicio17\bin\Debug\net9.0\Exercicio17.dll
+C:\Users\42501827899\Desktop\BeckEndMoura\Exercicio17\bin\Debug\net9.0\Exercicio17.pdb
+C:\Users\42501827899\Desktop\BeckEndMoura\Exercicio17\obj\Debug\net9.0\Exercicio17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\42501827899\Desktop\BeckEndMoura\Exercicio17\obj\Debug\net9.0\Exercicio17.AssemblyInfoInputs.cache
+C:\Users\42501827899\Desktop\BeckEndMoura\Exercicio17\obj\Debug\net9.0\Exercicio17.AssemblyInfo.cs
+C:\Users\42501827899\Desktop\BeckEndMoura\Exercicio17\obj\Debug\net9.0\Exercicio17.csproj.CoreCompileInputs.cache
+C:\Users\42501827899\Desktop\BeckEndMoura\Exercicio17\obj\Debug\net9.0\Exercicio17.dll
+C:\Users\42501827899\Desktop\BeckEndMoura\Exercicio17\obj\Debug\net9.0\refint\Exercicio17.dll
+C:\Users\42501827899\Desktop\BeckEndMoura\Exercicio17\obj\Debug\net9.0\Exercicio17.pdb
+C:\Users\42501827899\Desktop\BeckEndMoura\Exercicio17\obj\Debug\net9.0\Exercicio17.genruntimeconfig.cache
+C:\Users\42501827899\Desktop\BeckEndMoura\Exercicio17\obj\Debug\net9.0\ref\Exercicio17.dll

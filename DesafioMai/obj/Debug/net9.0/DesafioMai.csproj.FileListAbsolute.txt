@@ -1,0 +1,14 @@
+C:\Users\42501827899\Desktop\BeckEndMoura\DesafioMai\bin\Debug\net9.0\DesafioMai.exe
+C:\Users\42501827899\Desktop\BeckEndMoura\DesafioMai\bin\Debug\net9.0\DesafioMai.deps.json
+C:\Users\42501827899\Desktop\BeckEndMoura\DesafioMai\bin\Debug\net9.0\DesafioMai.runtimeconfig.json
+C:\Users\42501827899\Desktop\BeckEndMoura\DesafioMai\bin\Debug\net9.0\DesafioMai.dll
+C:\Users\42501827899\Desktop\BeckEndMoura\DesafioMai\bin\Debug\net9.0\DesafioMai.pdb
+C:\Users\42501827899\Desktop\BeckEndMoura\DesafioMai\obj\Debug\net9.0\DesafioMai.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\42501827899\Desktop\BeckEndMoura\DesafioMai\obj\Debug\net9.0\DesafioMai.AssemblyInfoInputs.cache
+C:\Users\42501827899\Desktop\BeckEndMoura\DesafioMai\obj\Debug\net9.0\DesafioMai.AssemblyInfo.cs
+C:\Users\42501827899\Desktop\BeckEndMoura\DesafioMai\obj\Debug\net9.0\DesafioMai.csproj.CoreCompileInputs.cache
+C:\Users\42501827899\Desktop\BeckEndMoura\DesafioMai\obj\Debug\net9.0\DesafioMai.dll
+C:\Users\42501827899\Desktop\BeckEndMoura\DesafioMai\obj\Debug\net9.0\refint\DesafioMai.dll
+C:\Users\42501827899\Desktop\BeckEndMoura\DesafioMai\obj\Debug\net9.0\DesafioMai.pdb
+C:\Users\42501827899\Desktop\BeckEndMoura\DesafioMai\obj\Debug\net9.0\DesafioMai.genruntimeconfig.cache
+C:\Users\42501827899\Desktop\BeckEndMoura\DesafioMai\obj\Debug\net9.0\ref\DesafioMai.dll

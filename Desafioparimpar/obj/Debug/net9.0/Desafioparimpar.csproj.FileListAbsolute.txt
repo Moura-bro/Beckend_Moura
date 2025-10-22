@@ -1,0 +1,14 @@
+C:\Users\42501827899\Desktop\BeckEndMoura\Desafioparimpar\obj\Debug\net9.0\Desafioparimpar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\42501827899\Desktop\BeckEndMoura\Desafioparimpar\obj\Debug\net9.0\Desafioparimpar.AssemblyInfoInputs.cache
+C:\Users\42501827899\Desktop\BeckEndMoura\Desafioparimpar\obj\Debug\net9.0\Desafioparimpar.AssemblyInfo.cs
+C:\Users\42501827899\Desktop\BeckEndMoura\Desafioparimpar\obj\Debug\net9.0\Desafioparimpar.csproj.CoreCompileInputs.cache
+C:\Users\42501827899\Desktop\BeckEndMoura\Desafioparimpar\bin\Debug\net9.0\Desafioparimpar.exe
+C:\Users\42501827899\Desktop\BeckEndMoura\Desafioparimpar\bin\Debug\net9.0\Desafioparimpar.deps.json
+C:\Users\42501827899\Desktop\BeckEndMoura\Desafioparimpar\bin\Debug\net9.0\Desafioparimpar.runtimeconfig.json
+C:\Users\42501827899\Desktop\BeckEndMoura\Desafioparimpar\bin\Debug\net9.0\Desafioparimpar.dll
+C:\Users\42501827899\Desktop\BeckEndMoura\Desafioparimpar\bin\Debug\net9.0\Desafioparimpar.pdb
+C:\Users\42501827899\Desktop\BeckEndMoura\Desafioparimpar\obj\Debug\net9.0\Desafioparimpar.dll
+C:\Users\42501827899\Desktop\BeckEndMoura\Desafioparimpar\obj\Debug\net9.0\refint\Desafioparimpar.dll
+C:\Users\42501827899\Desktop\BeckEndMoura\Desafioparimpar\obj\Debug\net9.0\Desafioparimpar.pdb
+C:\Users\42501827899\Desktop\BeckEndMoura\Desafioparimpar\obj\Debug\net9.0\Desafioparimpar.genruntimeconfig.cache
+C:\Users\42501827899\Desktop\BeckEndMoura\Desafioparimpar\obj\Debug\net9.0\ref\Desafioparimpar.dll

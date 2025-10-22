@@ -1,0 +1,14 @@
+C:\Users\42501827899\Desktop\BeckEndMoura\Concatfot\obj\Debug\net9.0\Concatfot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\42501827899\Desktop\BeckEndMoura\Concatfot\obj\Debug\net9.0\Concatfot.AssemblyInfoInputs.cache
+C:\Users\42501827899\Desktop\BeckEndMoura\Concatfot\obj\Debug\net9.0\Concatfot.AssemblyInfo.cs
+C:\Users\42501827899\Desktop\BeckEndMoura\Concatfot\obj\Debug\net9.0\Concatfot.csproj.CoreCompileInputs.cache
+C:\Users\42501827899\Desktop\BeckEndMoura\Concatfot\bin\Debug\net9.0\Concatfot.exe
+C:\Users\42501827899\Desktop\BeckEndMoura\Concatfot\bin\Debug\net9.0\Concatfot.deps.json
+C:\Users\42501827899\Desktop\BeckEndMoura\Concatfot\bin\Debug\net9.0\Concatfot.runtimeconfig.json
+C:\Users\42501827899\Desktop\BeckEndMoura\Concatfot\bin\Debug\net9.0\Concatfot.dll
+C:\Users\42501827899\Desktop\BeckEndMoura\Concatfot\bin\Debug\net9.0\Concatfot.pdb
+C:\Users\42501827899\Desktop\BeckEndMoura\Concatfot\obj\Debug\net9.0\Concatfot.dll
+C:\Users\42501827899\Desktop\BeckEndMoura\Concatfot\obj\Debug\net9.0\refint\Concatfot.dll
+C:\Users\42501827899\Desktop\BeckEndMoura\Concatfot\obj\Debug\net9.0\Concatfot.pdb
+C:\Users\42501827899\Desktop\BeckEndMoura\Concatfot\obj\Debug\net9.0\Concatfot.genruntimeconfig.cache
+C:\Users\42501827899\Desktop\BeckEndMoura\Concatfot\obj\Debug\net9.0\ref\Concatfot.dll
