@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\42501827899\\Desktop\\BeckEndMoura\\Hello\\Hello.csproj",
-      "projectName": "Hello",
-      "projectPath": "C:\\Users\\42501827899\\Desktop\\BeckEndMoura\\Hello\\Hello.csproj",
+      "projectUniqueName": "C:\\Users\\42501827899\\Desktop\\BeckEndMoura\\POO\\PilaresPoo\\Heranca\\Exercio04\\Exercio04.csproj",
+      "projectName": "Exercio04",
+      "projectPath": "C:\\Users\\42501827899\\Desktop\\BeckEndMoura\\POO\\PilaresPoo\\Heranca\\Exercio04\\Exercio04.csproj",
       "packagesPath": "C:\\Users\\42501827899\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\42501827899\\Desktop\\BeckEndMoura\\Hello\\obj\\",
+      "outputPath": "C:\\Users\\42501827899\\Desktop\\BeckEndMoura\\POO\\PilaresPoo\\Heranca\\Exercio04\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\42501827899\\AppData\\Roaming\\NuGet\\NuGet.Config"
