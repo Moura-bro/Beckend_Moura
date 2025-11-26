@@ -30,11 +30,11 @@ Escolha a Opcao");
             break;
 
         case 2:
-            Console.WriteLine($"Cadastrar Relatorio em desevolvimento");
+            CadastrarRelatorio();
             break;
 
         case 3:
-            Console.WriteLine($"Cadastrar Contrato em desevolvimento");
+            CadastrarContratos();
             break;
 
         case 4:
@@ -42,11 +42,11 @@ Escolha a Opcao");
             break;
 
         case 5:
-            Console.WriteLine($"Listar Relatorio em desevolvimento");
+            ListarRelatorio();
             break;
 
         case 6:
-            Console.WriteLine($"Listar Contrato em desevolvimento");
+            ListarContratos();
             break;
 
         case 0:
@@ -88,14 +88,30 @@ void CadastrarFatura()
   Console.WriteLine($"Fatura cadastrada com sucesso");
   
 }
+
 void CadastrarContratos()
 {
+   Console.WriteLine($"Digite o nome da empresa");
+  string Nome = Console.ReadLine();
+  
+  Console.WriteLine($"Dgite as clausulas do contrato");
+   string TextoClausulas = Console.ReadLine();
 
+ Contrato con = new Contrato(Nome , TextoClausulas);
+  Documentos.Add(con);
+ 
 }
 
 void CadastrarRelatorio()
 {
+  Console.WriteLine($"Digite o nome do Responsavel pelo Relatorio");
+  string NomeResponsavel = Console.ReadLine();
+  
+  Console.WriteLine($"Dgite o Relatorio");
+   string TextoRelatorio = Console.ReadLine();
 
+   Relatorio rela = new Relatorio(NomeResponsavel , TextoRelatorio);
+  Documentos.Add(rela);
 }
 
 void ListarFaturas()
@@ -113,12 +129,26 @@ foreach (var item in Documentos)
 
 void ListarContratos()
 {
-
+ Console.WriteLine($"Listando Contratos:");
+foreach (var item in Documentos)
+{
+    if(item is Contrato)
+        {
+            item.Imprimir();
+        }
+}
 }
 
 void ListarRelatorio()
 {
-
+ Console.WriteLine($"Listando Relatorios:");
+foreach (var item in Documentos)
+{
+    if(item is Relatorio)
+        {
+            item.Imprimir();
+        }
+}
 }
 
 
