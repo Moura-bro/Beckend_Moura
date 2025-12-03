@@ -1,8 +1,41 @@
 ﻿@{
-    ViewData["Title"] = "Home Page";
+    ViewData[index: "Title"] = "Logo DeveConnect";
 }
+<link rel="stylesheet" href="~/css/login.css">
+<main>
+        <div>
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-</div>
+
+            <form class="estilo-formulario">
+                <img src="~/imagens/logo roxa md.svg" alt="logo Devconnect">
+
+                <div class="formularios-campos">
+                   <label  for="">Nome de usuario</label>
+                   <input type="text" name="" id="">
+                </div>
+
+                <div class="formularios-campos">
+                   <label  for="">Senha</label>
+                   <input type="password" name="" id="">
+                </div>
+
+                <button type="submit" class="formulario-botao-azul">Entrar</button>
+                
+                <p>ou</p>
+
+                <a href="#">Esqueceu a Senha?</a>
+            </form>
+
+            <section id="secao-cadastro" class="estilo-formulario">
+                <p>Não tem uma conta? <a href="../pages/cadastro.html">Cadastre-se</a></p>
+            </section>
+
+            <p>Obtenha o aplicativo</p>
+
+            <section id="secao-instalacao">
+                <img src="~/imagens/app-store.svg" alt="Imagem da istalacao no app-store">
+
+                <img src="~/imagens/google-play.svg" alt="Imagem da istalacao no Play-store">
+            </section>
+        </div>
+    </main>
