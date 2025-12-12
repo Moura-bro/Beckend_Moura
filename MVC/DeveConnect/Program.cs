@@ -1,4 +1,12 @@
+using DeveConnect.Contexts;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
+
+builder.Services.AddDbContext<DeveConnectContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString
+    ("DevCon_SA"))
+);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();

@@ -14,13 +14,21 @@ namespace Crud.Controllers
     {
         private readonly ILogger<AlunoController> _logger;
 
+        private readonly CrudMouraContext _context;
+
+        public AlunoController (ILogger<AlunoController> logger , CrudMouraContext context)
+        {
+            _logger = logger;
+            _context = context;
+        }
+
 
 
         public static List<Aluno> ListaDeAluno = new List<Aluno>
         {
-            new Aluno{ Id_Aluno =1  ,Nome = "Rafael", Idade = 16 ,Ra = 10, CPF = 34464579870 },
-            new Aluno{ Id_Aluno =2  ,Nome = "Gomes", Idade = 17 ,Ra = 50, CPF = 34464579870 },
-            new Aluno{ Id_Aluno =3  ,Nome = "Joao", Idade = 17 ,Ra = 30, CPF =  34464579870},
+            new Aluno{ Id_Aluno =1  ,Nome = "Rafael", Idade = 16 ,Ra = "10", CPF = "34464579870" },
+            new Aluno{ Id_Aluno =2  ,Nome = "Gomes", Idade = 17 ,Ra = "50", CPF = "34464579870" },
+            new Aluno{ Id_Aluno =3  ,Nome = "Joao", Idade = 17 ,Ra = "30", CPF =  "34464579870"},
         };
 
         public AlunoController(ILogger<AlunoController> logger)

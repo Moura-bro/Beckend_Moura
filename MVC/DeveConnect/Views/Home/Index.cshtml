@@ -2,6 +2,19 @@
     ViewData[index: "Title"] = "Logo DeveConnect";
 }
 <link rel="stylesheet" href="~/css/login.css">
+
+
+
+<script defer >
+        let usuarioNovoCadastrado = "@TempData["UsuarioNovoCadastrado"]";
+
+    if (usuarioNovoCadastrado == "cadastrado") {
+        alert("Usuario cadastrado com sucesso! Agora faça o login.");
+    }
+</script>
+
+
+
 <main>
         <div>
 

@@ -1,12 +1,28 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
+using Microsoft.EntityFrameworkCore;
 
-namespace Crud.Models
+namespace Crud.Models;
+
+[Table("Aluno")]
+public partial class Aluno
 {
-    public class Aluno
-    {
-        public int Id_Aluno {get; set;}
-        public string Nome {get; set;}
-        public int Idade {get; set;}
-        public int Ra {get; set;}
-        public double CPF {get; set;}
-    }
+    [Key]
+    [Column("Id_Aluno")]
+    public int Id_Aluno { get; set; }
+
+    [StringLength(255)]
+    public string Nome { get; set; } = null!;
+
+    public int Idade { get; set; }
+
+    [StringLength(255)]
+    public string Ra { get; set; } = null!;
+
+    [Column("CPF")]
+    [StringLength(14)]
+    [Unicode(false)]
+    public string CPF { get; set; } = null!;
 }
